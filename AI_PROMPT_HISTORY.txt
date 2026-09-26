@@ -24,7 +24,6 @@ Context Attached: Screenshot of phone frame simulator on desktop
 Prompt Text:
 "Take this and place it on the table—put it down there."
 
-
 --------------------------------------------------------------------------------
 
 [PROMPT 4]
@@ -32,6 +31,13 @@ Tool: Google Gemini AI Assistant
 Context Attached: Screenshot of Task 1 Assessment Requirements
 Prompt Text:
 "Don't add anything there yourself. Check if I’ve added everything required for the tasks and let me know if I missed anything."
+
+--------------------------------------------------------------------------------
+
+[PROMPT 5]
+Tool: Google Gemini AI Assistant
+Prompt Text:
+"write a README.md file according to my Project"
 
 ================================================================================
 END OF AI PROMPT HISTORY
