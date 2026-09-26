@@ -1,0 +1,38 @@
+
+Tool Used: Google Gemini / Antigravity AI Assistant
+================================================================================
+
+[PROMPT 1]
+Tool: Google Gemini
+Prompt Text:
+"Give me a minimum 50 or above static order for Ecommerce product orders system"
+
+--------------------------------------------------------------------------------
+
+[PROMPT 2]
+Tool: Antigravity AI Assistant
+Context Attached: SaaS Dark Dashboard UI Reference
+Prompt Text:
+"Write a Design a Product Table according to mock data in order_data.json"
+
+
+--------------------------------------------------------------------------------
+
+[PROMPT 3]
+Tool: Google Gemini AI Assistant
+Context Attached: Screenshot of phone frame simulator on desktop
+Prompt Text:
+"Take this and place it on the table—put it down there."
+
+
+--------------------------------------------------------------------------------
+
+[PROMPT 4]
+Tool: Google Gemini AI Assistant
+Context Attached: Screenshot of Task 1 Assessment Requirements
+Prompt Text:
+"Don't add anything there yourself. Check if I’ve added everything required for the tasks and let me know if I missed anything."
+
+================================================================================
+END OF AI PROMPT HISTORY
+================================================================================

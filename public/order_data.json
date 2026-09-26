@@ -1,0 +1,2709 @@
+{
+    "id": "ORD-2026-1001",
+    "orderNumber": "#ORD-1001",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 29, 2026",
+    "carrier": "FedEx Priority",
+    "trackingNumber": "FDX98230001",
+    "items": [
+        {
+            "id": "ITEM-101",
+            "name": "Wireless Noise Canceling Headphones",
+            "quantity": 1,
+            "price": 149.99,
+            "image": "https://picsum.photos/seed/p1/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed and authorized",
+            "timestamp": "Sep 22, 10:15 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Package handed over to carrier hub",
+            "timestamp": "Sep 23, 03:40 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Transit Delay",
+            "description": "Severe weather alert affecting regional transit",
+            "timestamp": "Sep 25, 08:30 AM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1002",
+    "orderNumber": "#ORD-1002",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 02:45 PM",
+    "carrier": "DHL Express",
+    "trackingNumber": "DHL49200002",
+    "items": [
+        {
+            "id": "ITEM-102",
+            "name": "Mechanical RGB Gaming Keyboard",
+            "quantity": 1,
+            "price": 89.50,
+            "image": "https://picsum.photos/seed/p2/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed and verified",
+            "timestamp": "Sep 23, 09:10 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed regional facility",
+            "timestamp": "Sep 24, 04:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Courier is in your neighborhood",
+            "timestamp": "Sep 26, 09:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Left at front porch or doorstep",
+            "timestamp": "Sep 26, 02:45 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1003",
+    "orderNumber": "#ORD-1003",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 02, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-103",
+            "name": "Ultra-wide 34-inch Curved Gaming Monitor",
+            "quantity": 1,
+            "price": 389.00,
+            "image": "https://picsum.photos/seed/p3/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1004",
+    "orderNumber": "#ORD-1004",
+    "scenario": "normal",
+    "currentStatus": "Out for Delivery",
+    "estimatedDelivery": "Today by 07:00 PM",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA104",
+    "items": [
+        {
+            "id": "ITEM-104",
+            "name": "Smart Fitness & Health Tracker Band",
+            "quantity": 2,
+            "price": 49.99,
+            "image": "https://picsum.photos/seed/p4/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 11:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed sorting center",
+            "timestamp": "Sep 25, 01:20 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Courier out for delivery",
+            "timestamp": "Sep 26, 08:45 AM",
+            "completed": false,
+            "current": true
+        },
+        {
+            "title": "Delivered",
+            "description": "Package handover pending",
+            "timestamp": "Pending",
+            "completed": false,
+            "current": false
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1005",
+    "orderNumber": "#ORD-1005",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 30, 2026",
+    "carrier": "FedEx Express",
+    "trackingNumber": "FDX98230005",
+    "items": [
+        {
+            "id": "ITEM-105",
+            "name": "Ergonomic Lumbar Support Office Chair",
+            "quantity": 1,
+            "price": 220.00,
+            "image": "https://picsum.photos/seed/p5/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order processed",
+            "timestamp": "Sep 21, 09:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "In transit across state line",
+            "timestamp": "Sep 22, 06:10 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Customs Inspection Delay",
+            "description": "Package under routine regulatory verification",
+            "timestamp": "Sep 25, 11:15 AM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1006",
+    "orderNumber": "#ORD-1006",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 01:15 PM",
+    "carrier": "USPS Priority",
+    "trackingNumber": "USPS94000006",
+    "items": [
+        {
+            "id": "ITEM-106",
+            "name": "100W USB-C GaN Fast Charger",
+            "quantity": 2,
+            "price": 35.00,
+            "image": "https://picsum.photos/seed/p6/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Payment confirmed",
+            "timestamp": "Sep 23, 02:15 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Scanned at regional postal hub",
+            "timestamp": "Sep 24, 07:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "With local postal carrier",
+            "timestamp": "Sep 26, 09:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Delivered in mailbox/parcel locker",
+            "timestamp": "Sep 26, 01:15 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1007",
+    "orderNumber": "#ORD-1007",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 01, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-107",
+            "name": "Leather Minimalist Laptop Sleeve 14"","quantity": 1,"price": 42.00,
+            "image": "https://picsum.photos/seed/p7/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1008",
+    "orderNumber": "#ORD-1008",
+    "scenario": "normal",
+    "currentStatus": "Shipped",
+    "estimatedDelivery": "Tomorrow, Sep 27 by 05:00 PM",
+    "carrier": "FedEx Home",
+    "trackingNumber": "FDX98230008",
+    "items": [
+        {
+            "id": "ITEM-108",
+            "name": "Waterproof Portable Bluetooth Speaker",
+            "quantity": 1,
+            "price": 65.00,
+            "image": "https://picsum.photos/seed/p8/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 25, 08:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "En route to local sorting hub",
+            "timestamp": "Sep 26, 11:30 AM",
+            "completed": true,
+            "current": true
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Pending arrival at local hub",
+            "timestamp": "Pending",
+            "completed": false,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Awaiting final delivery",
+            "timestamp": "Pending",
+            "completed": false,
+            "current": false
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1009",
+    "orderNumber": "#ORD-1009",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 29, 2026",
+    "carrier": "DHL Global",
+    "trackingNumber": "DHL49200009",
+    "items": [
+        {
+            "id": "ITEM-109",
+            "name": "4K Foldable GPS Drone with Bag",
+            "quantity": 1,
+            "price": 299.99,
+            "image": "https://picsum.photos/seed/p9/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 20, 04:12 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "International departure",
+            "timestamp": "Sep 21, 09:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Flight Delayed",
+            "description": "Logistics flight rescheduled due to technical delay",
+            "timestamp": "Sep 24, 06:15 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1010",
+    "orderNumber": "#ORD-1010",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 11:20 AM",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA110",
+    "items": [
+        {
+            "id": "ITEM-110",
+            "name": "2TB Portable NVMe External SSD",
+            "quantity": 1,
+            "price": 179.00,
+            "image": "https://picsum.photos/seed/p10/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 10:20 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Arrived at destination hub",
+            "timestamp": "Sep 25, 08:30 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Out with driver",
+            "timestamp": "Sep 26, 08:15 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Signed by resident (reception desk)",
+            "timestamp": "Sep 26, 11:20 AM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1011",
+    "orderNumber": "#ORD-1011",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 03, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-111",
+            "name": "Wireless Vertical Ergonomic Mouse",
+            "quantity": 1,
+            "price": 39.99,
+            "image": "https://picsum.photos/seed/p11/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1012",
+    "orderNumber": "#ORD-1012",
+    "scenario": "normal",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Sep 30, 2026",
+    "carrier": "FedEx Ground",
+    "trackingNumber": "FDX98230012",
+    "items": [
+        {
+            "id": "ITEM-112",
+            "name": "Aluminum Monitor Stand Riser",
+            "quantity": 1,
+            "price": 32.50,
+            "image": "https://picsum.photos/seed/p12/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Fulfillment center preparing parcel",
+            "timestamp": "Sep 26, 09:00 AM",
+            "completed": true,
+            "current": true
+        },
+        {
+            "title": "Shipped",
+            "description": "Awaiting courier pickup",
+            "timestamp": "Pending",
+            "completed": false,
+            "current": false
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1013",
+    "orderNumber": "#ORD-1013",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 29, 2026",
+    "carrier": "USPS Priority",
+    "trackingNumber": "USPS94000013",
+    "items": [
+        {
+            "id": "ITEM-113",
+            "name": "Studio Condenser Podcast Microphone",
+            "quantity": 1,
+            "price": 115.00,
+            "image": "https://picsum.photos/seed/p13/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 01:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed regional facility",
+            "timestamp": "Sep 23, 07:30 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Operational Delay",
+            "description": "Rerouted due to logistics bottleneck",
+            "timestamp": "Sep 25, 02:40 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1014",
+    "orderNumber": "#ORD-1014",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 10:15 AM",
+    "carrier": "FedEx Priority",
+    "trackingNumber": "FDX98230014",
+    "items": [
+        {
+            "id": "ITEM-114",
+            "name": "Smart LED Desk Lamp with Qi Charger",
+            "quantity": 1,
+            "price": 45.99,
+            "image": "https://picsum.photos/seed/p14/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 08:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Dispatched from facility",
+            "timestamp": "Sep 25, 03:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Courier out for delivery",
+            "timestamp": "Sep 26, 08:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Delivered to mailroom",
+            "timestamp": "Sep 26, 10:15 AM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1015",
+    "orderNumber": "#ORD-1015",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 04, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-115",
+            "name": "Compact Mechanical Numpad",
+            "quantity": 1,
+            "price": 29.99,
+            "image": "https://picsum.photos/seed/p15/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1016",
+    "orderNumber": "#ORD-1016",
+    "scenario": "normal",
+    "currentStatus": "Out for Delivery",
+    "estimatedDelivery": "Today by 06:30 PM",
+    "carrier": "DHL Express",
+    "trackingNumber": "DHL49200016",
+    "items": [
+        {
+            "id": "ITEM-116",
+            "name": "Adjustable Laptop Cooling Pad",
+            "quantity": 1,
+            "price": 34.00,
+            "image": "https://picsum.photos/seed/p16/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 05:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "In transit",
+            "timestamp": "Sep 25, 04:30 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "On van for final delivery",
+            "timestamp": "Sep 26, 09:10 AM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1017",
+    "orderNumber": "#ORD-1017",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 29, 2026",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA117",
+    "items": [
+        {
+            "id": "ITEM-117",
+            "name": "Braided Thunderbolt 4 Cable 2M",
+            "quantity": 2,
+            "price": 28.00,
+            "image": "https://picsum.photos/seed/p17/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 10:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed warehouse",
+            "timestamp": "Sep 23, 02:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Transit Mechanical Delay",
+            "description": "Vehicle maintenance delay in hub",
+            "timestamp": "Sep 25, 04:20 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1018",
+    "orderNumber": "#ORD-1018",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 09:00 AM",
+    "carrier": "FedEx Ground",
+    "trackingNumber": "FDX98230018",
+    "items": [
+        {
+            "id": "ITEM-118",
+            "name": "Magnetic Wireless Power Bank 10000mAh",
+            "quantity": 1,
+            "price": 54.50,
+            "image": "https://picsum.photos/seed/p18/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order processed",
+            "timestamp": "Sep 24, 02:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Dispatched to regional center",
+            "timestamp": "Sep 25, 05:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Loaded on delivery vehicle",
+            "timestamp": "Sep 26, 07:45 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Delivered to security gate",
+            "timestamp": "Sep 26, 09:00 AM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1019",
+    "orderNumber": "#ORD-1019",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 02, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-119",
+            "name": "Webcam 4K Ultra HD with Privacy Cover",
+            "quantity": 1,
+            "price": 89.99,
+            "image": "https://picsum.photos/seed/p19/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1020",
+    "orderNumber": "#ORD-1020",
+    "scenario": "normal",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Yesterday",
+    "carrier": "DHL Express",
+    "trackingNumber": "DHL49200020",
+    "items": [
+        {
+            "id": "ITEM-120",
+            "name": "Microfiber Screen Cleaning Kit",
+            "quantity": 3,
+            "price": 12.00,
+            "image": "https://picsum.photos/seed/p20/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 23, 10:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "In transit",
+            "timestamp": "Sep 24, 02:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Courier dispatched",
+            "timestamp": "Sep 25, 09:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Handed directly to recipient",
+            "timestamp": "Sep 25, 03:30 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1021",
+    "orderNumber": "#ORD-1021",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 30, 2026",
+    "carrier": "FedEx Express",
+    "trackingNumber": "FDX98230021",
+    "items": [
+        {
+            "id": "ITEM-121",
+            "name": "RGB Desk Mat Extra Large 900x400mm",
+            "quantity": 1,
+            "price": 24.99,
+            "image": "https://picsum.photos/seed/p21/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 11:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed regional facility",
+            "timestamp": "Sep 23, 08:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Route Recalculation Delay",
+            "description": "Road closure delay en route",
+            "timestamp": "Sep 25, 01:10 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1022",
+    "orderNumber": "#ORD-1022",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 03:00 PM",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA122",
+    "items": [
+        {
+            "id": "ITEM-122",
+            "name": "Dual Arm Gas Spring Monitor Mount",
+            "quantity": 1,
+            "price": 79.99,
+            "image": "https://picsum.photos/seed/p22/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 09:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Sorted at transit hub",
+            "timestamp": "Sep 25, 01:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Driver on delivery run",
+            "timestamp": "Sep 26, 09:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Left on front porch",
+            "timestamp": "Sep 26, 03:00 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1023",
+    "orderNumber": "#ORD-1023",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 03, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-123",
+            "name": "Wireless Charging Mouse Pad",
+            "quantity": 1,
+            "price": 38.00,
+            "image": "https://picsum.photos/seed/p23/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1024",
+    "orderNumber": "#ORD-1024",
+    "scenario": "normal",
+    "currentStatus": "Shipped",
+    "estimatedDelivery": "Tomorrow, Sep 27 by 07:00 PM",
+    "carrier": "FedEx Ground",
+    "trackingNumber": "FDX98230024",
+    "items": [
+        {
+            "id": "ITEM-124",
+            "name": "Hi-Fi DAC Headphone Amplifier",
+            "quantity": 1,
+            "price": 109.00,
+            "image": "https://picsum.photos/seed/p24/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 25, 11:20 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed sorting facility",
+            "timestamp": "Sep 26, 02:40 PM",
+            "completed": true,
+            "current": true
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Awaiting arrival at destination facility",
+            "timestamp": "Pending",
+            "completed": false,
+            "current": false
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1025",
+    "orderNumber": "#ORD-1025",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 29, 2026",
+    "carrier": "DHL Express",
+    "trackingNumber": "DHL49200025",
+    "items": [
+        {
+            "id": "ITEM-125",
+            "name": "Smart Water Bottle with Temp Display",
+            "quantity": 1,
+            "price": 32.00,
+            "image": "https://picsum.photos/seed/p25/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 03:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Transferred to delivery carrier",
+            "timestamp": "Sep 23, 06:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Transit Clearance Delay",
+            "description": "Awaiting customs authority sign-off",
+            "timestamp": "Sep 25, 03:45 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1026",
+    "orderNumber": "#ORD-1026",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 12:40 PM",
+    "carrier": "USPS Priority",
+    "trackingNumber": "USPS94000026",
+    "items": [
+        {
+            "id": "ITEM-126",
+            "name": "Wireless Presenter Clicker with Laser Pointer",
+            "quantity": 1,
+            "price": 19.99,
+            "image": "https://picsum.photos/seed/p26/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 01:10 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Scanned at regional post center",
+            "timestamp": "Sep 25, 06:20 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Loaded on carrier vehicle",
+            "timestamp": "Sep 26, 08:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Delivered in residential mailbox",
+            "timestamp": "Sep 26, 12:40 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1027",
+    "orderNumber": "#ORD-1027",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 05, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-127",
+            "name": "USB-C to HDMI 4K 60Hz Adapter",
+            "quantity": 2,
+            "price": 18.50,
+            "image": "https://picsum.photos/seed/p27/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1028",
+    "orderNumber": "#ORD-1028",
+    "scenario": "normal",
+    "currentStatus": "Out for Delivery",
+    "estimatedDelivery": "Today by 08:00 PM",
+    "carrier": "FedEx Express",
+    "trackingNumber": "FDX98230028",
+    "items": [
+        {
+            "id": "ITEM-128",
+            "name": "Magnetic Phone Tripod Stand",
+            "quantity": 1,
+            "price": 31.00,
+            "image": "https://picsum.photos/seed/p28/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 04:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Processed at local hub",
+            "timestamp": "Sep 25, 09:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Courier is nearby",
+            "timestamp": "Sep 26, 09:45 AM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1029",
+    "orderNumber": "#ORD-1029",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 30, 2026",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA129",
+    "items": [
+        {
+            "id": "ITEM-129",
+            "name": "Electric Standing Desk Converter",
+            "quantity": 1,
+            "price": 189.00,
+            "image": "https://picsum.photos/seed/p29/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 21, 10:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Loaded on freight train",
+            "timestamp": "Sep 22, 07:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Weather Emergency Delay",
+            "description": "Severe storm halting ground freight",
+            "timestamp": "Sep 25, 10:00 AM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1030",
+    "orderNumber": "#ORD-1030",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 01:50 PM",
+    "carrier": "DHL Express",
+    "trackingNumber": "DHL49200030",
+    "items": [
+        {
+            "id": "ITEM-130",
+            "name": "True Wireless Earbuds with ANC",
+            "quantity": 1,
+            "price": 99.00,
+            "image": "https://picsum.photos/seed/p30/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order placed",
+            "timestamp": "Sep 24, 09:20 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "In transit",
+            "timestamp": "Sep 25, 01:15 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Driver dispatch confirmed",
+            "timestamp": "Sep 26, 08:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Delivered to reception",
+            "timestamp": "Sep 26, 01:50 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1031",
+    "orderNumber": "#ORD-1031",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 04, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-131",
+            "name": "Anti-Blue Light Computer Glasses",
+            "quantity": 1,
+            "price": 26.50,
+            "image": "https://picsum.photos/seed/p31/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1032",
+    "orderNumber": "#ORD-1032",
+    "scenario": "normal",
+    "currentStatus": "Shipped",
+    "estimatedDelivery": "Sep 28, 2026",
+    "carrier": "FedEx Ground",
+    "trackingNumber": "FDX98230032",
+    "items": [
+        {
+            "id": "ITEM-132",
+            "name": "Adjustable Footrest for Under Desk",
+            "quantity": 1,
+            "price": 36.00,
+            "image": "https://picsum.photos/seed/p32/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 25, 02:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Package departed dispatch center",
+            "timestamp": "Sep 26, 10:10 AM",
+            "completed": true,
+            "current": true
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Pending local delivery hub arrival",
+            "timestamp": "Pending",
+            "completed": false,
+            "current": false
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1033",
+    "orderNumber": "#ORD-1033",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 30, 2026",
+    "carrier": "FedEx Priority",
+    "trackingNumber": "FDX98230033",
+    "items": [
+        {
+            "id": "ITEM-133",
+            "name": "Mechanical Keyboard Custom Keycap Set",
+            "quantity": 1,
+            "price": 42.00,
+            "image": "https://picsum.photos/seed/p33/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order verified",
+            "timestamp": "Sep 22, 10:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Handed to courier",
+            "timestamp": "Sep 23, 04:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Sorting Facility Delay",
+            "description": "Misrouted package being redirected",
+            "timestamp": "Sep 25, 05:00 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1034",
+    "orderNumber": "#ORD-1034",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 03:40 PM",
+    "carrier": "USPS Priority",
+    "trackingNumber": "USPS94000034",
+    "items": [
+        {
+            "id": "ITEM-134",
+            "name": "Desk Cable Management Raceway Kit",
+            "quantity": 1,
+            "price": 22.90,
+            "image": "https://picsum.photos/seed/p34/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 10:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Processed at local distribution center",
+            "timestamp": "Sep 25, 02:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Out with postman",
+            "timestamp": "Sep 26, 08:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Delivered to doorstep",
+            "timestamp": "Sep 26, 03:40 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1035",
+    "orderNumber": "#ORD-1035",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 04, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-135",
+            "name": "65W Magnetic Wireless 3-in-1 Charging Stand",
+            "quantity": 1,
+            "price": 58.00,
+            "image": "https://picsum.photos/seed/p35/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1036",
+    "orderNumber": "#ORD-1036",
+    "scenario": "normal",
+    "currentStatus": "Out for Delivery",
+    "estimatedDelivery": "Today by 06:00 PM",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA136",
+    "items": [
+        {
+            "id": "ITEM-136",
+            "name": "1080P Streaming Light Ring with Stand",
+            "quantity": 1,
+            "price": 39.50,
+            "image": "https://picsum.photos/seed/p36/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 01:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed regional depot",
+            "timestamp": "Sep 25, 05:40 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Vehicle dispatched for delivery",
+            "timestamp": "Sep 26, 09:15 AM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1037",
+    "orderNumber": "#ORD-1037",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 30, 2026",
+    "carrier": "DHL Express",
+    "trackingNumber": "DHL49200037",
+    "items": [
+        {
+            "id": "ITEM-137",
+            "name": "Foldable Aluminum Tablet Stand",
+            "quantity": 1,
+            "price": 24.50,
+            "image": "https://picsum.photos/seed/p37/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 10:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Dispatched across state line",
+            "timestamp": "Sep 23, 03:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Flight Grounded Delay",
+            "description": "Cargo flight delayed due to maintenance check",
+            "timestamp": "Sep 25, 09:20 AM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1038",
+    "orderNumber": "#ORD-1038",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 01:25 PM",
+    "carrier": "FedEx Priority",
+    "trackingNumber": "FDX98230038",
+    "items": [
+        {
+            "id": "ITEM-138",
+            "name": "Smart Wi-Fi Power Strip with Surge Protection",
+            "quantity": 1,
+            "price": 29.99,
+            "image": "https://picsum.photos/seed/p38/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 03:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed regional distribution center",
+            "timestamp": "Sep 25, 06:10 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "With delivery courier",
+            "timestamp": "Sep 26, 08:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Left by front garage door",
+            "timestamp": "Sep 26, 01:25 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1039",
+    "orderNumber": "#ORD-1039",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 03, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-139",
+            "name": "Memory Foam Wrist Rest Set for Keyboard & Mouse",
+            "quantity": 1,
+            "price": 18.00,
+            "image": "https://picsum.photos/seed/p39/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1040",
+    "orderNumber": "#ORD-1040",
+    "scenario": "normal",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Yesterday",
+    "carrier": "FedEx Ground",
+    "trackingNumber": "FDX98230040",
+    "items": [
+        {
+            "id": "ITEM-140",
+            "name": "High-Speed Micro SD Card 256GB",
+            "quantity": 1,
+            "price": 31.50,
+            "image": "https://picsum.photos/seed/p40/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 23, 08:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "In transit",
+            "timestamp": "Sep 24, 01:30 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Out for delivery",
+            "timestamp": "Sep 25, 09:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Package handed to recipient",
+            "timestamp": "Sep 25, 04:00 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1041",
+    "orderNumber": "#ORD-1041",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 29, 2026",
+    "carrier": "USPS Priority",
+    "trackingNumber": "USPS94000041",
+    "items": [
+        {
+            "id": "ITEM-141",
+            "name": "Noise Cancelling Boom Mic Gaming Headset",
+            "quantity": 1,
+            "price": 79.99,
+            "image": "https://picsum.photos/seed/p41/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 10:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed distribution hub",
+            "timestamp": "Sep 23, 04:45 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Regional Hub Jam",
+            "description": "High volume sorting bottleneck",
+            "timestamp": "Sep 25, 07:15 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1042",
+    "orderNumber": "#ORD-1042",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 11:55 AM",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA142",
+    "items": [
+        {
+            "id": "ITEM-142",
+            "name": "Foldable Drone Landing Pad 55cm",
+            "quantity": 1,
+            "price": 16.50,
+            "image": "https://picsum.photos/seed/p42/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 09:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "En route to recipient postal zone",
+            "timestamp": "Sep 25, 02:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Out for delivery with driver",
+            "timestamp": "Sep 26, 08:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Left at apartment concierge",
+            "timestamp": "Sep 26, 11:55 AM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1043",
+    "orderNumber": "#ORD-1043",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 06, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-143",
+            "name": "Smart Security Indoor Pan-Tilt Camera",
+            "quantity": 1,
+            "price": 49.00,
+            "image": "https://picsum.photos/seed/p43/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1044",
+    "orderNumber": "#ORD-1044",
+    "scenario": "normal",
+    "currentStatus": "Shipped",
+    "estimatedDelivery": "Sep 28, 2026",
+    "carrier": "DHL Express",
+    "trackingNumber": "DHL49200044",
+    "items": [
+        {
+            "id": "ITEM-144",
+            "name": "Magnetic Privacy Screen Filter for 15.6" Laptop","quantity": 1,"price": 38.00,
+            "image": "https://picsum.photos/seed/p44/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 25, 01:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed regional warehouse",
+            "timestamp": "Sep 26, 09:30 AM",
+            "completed": true,
+            "current": true
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Pending arrival at destination center",
+            "timestamp": "Pending",
+            "completed": false,
+            "current": false
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1045",
+    "orderNumber": "#ORD-1045",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 30, 2026",
+    "carrier": "FedEx Ground",
+    "trackingNumber": "FDX98230045",
+    "items": [
+        {
+            "id": "ITEM-145",
+            "name": "Precision Screwdriver Tool Set 64-in-1",
+            "quantity": 1,
+            "price": 26.90,
+            "image": "https://picsum.photos/seed/p45/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 02:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Dispatched to terminal",
+            "timestamp": "Sep 23, 06:15 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Transit Mechanical Delay",
+            "description": "Carrier vehicle undergoing replacement",
+            "timestamp": "Sep 25, 03:00 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1046",
+    "orderNumber": "#ORD-1046",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 02:10 PM",
+    "carrier": "FedEx Priority",
+    "trackingNumber": "FDX98230046",
+    "items": [
+        {
+            "id": "ITEM-146",
+            "name": "Ultra-Slim Wireless Numeric Keypad",
+            "quantity": 1,
+            "price": 21.00,
+            "image": "https://picsum.photos/seed/p46/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 08:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Dispatched to destination city",
+            "timestamp": "Sep 25, 04:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Courier dispatched",
+            "timestamp": "Sep 26, 09:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Delivered to security reception",
+            "timestamp": "Sep 26, 02:10 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1047",
+    "orderNumber": "#ORD-1047",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 05, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-147",
+            "name": "Self-Heating Smart Ceramic Coffee Mug",
+            "quantity": 1,
+            "price": 69.00,
+            "image": "https://picsum.photos/seed/p47/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1048",
+    "orderNumber": "#ORD-1048",
+    "scenario": "normal",
+    "currentStatus": "Out for Delivery",
+    "estimatedDelivery": "Today by 07:30 PM",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA148",
+    "items": [
+        {
+            "id": "ITEM-148",
+            "name": "Adjustable Microphone Boom Arm Stand",
+            "quantity": 1,
+            "price": 35.00,
+            "image": "https://picsum.photos/seed/p48/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 11:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Scanned at regional fulfillment",
+            "timestamp": "Sep 25, 03:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Courier en route to address",
+            "timestamp": "Sep 26, 08:50 AM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1049",
+    "orderNumber": "#ORD-1049",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 29, 2026",
+    "carrier": "DHL Express",
+    "trackingNumber": "DHL49200049",
+    "items": [
+        {
+            "id": "ITEM-149",
+            "name": "Compact Travel Cable Organizer Bag",
+            "quantity": 2,
+            "price": 14.50,
+            "image": "https://picsum.photos/seed/p49/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 09:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Dispatched across state line",
+            "timestamp": "Sep 23, 05:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Sorting Facility Overload",
+            "description": "High volume clearance backlog",
+            "timestamp": "Sep 25, 08:45 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1050",
+    "orderNumber": "#ORD-1050",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 03:15 PM",
+    "carrier": "USPS Priority",
+    "trackingNumber": "USPS94000050",
+    "items": [
+        {
+            "id": "ITEM-150",
+            "name": "Foldable Tablet Stand with 360 Rotating Base",
+            "quantity": 1,
+            "price": 27.99,
+            "image": "https://picsum.photos/seed/p50/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 02:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "In transit",
+            "timestamp": "Sep 25, 01:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Package with carrier driver",
+            "timestamp": "Sep 26, 08:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Delivered in package drop box",
+            "timestamp": "Sep 26, 03:15 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1051",
+    "orderNumber": "#ORD-1051",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 06, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-151",
+            "name": "Silicone Keyboard Cover & Dust Protector",
+            "quantity": 2,
+            "price": 9.99,
+            "image": "https://picsum.photos/seed/p51/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1052",
+    "orderNumber": "#ORD-1052",
+    "scenario": "normal",
+    "currentStatus": "Out for Delivery",
+    "estimatedDelivery": "Today by 06:45 PM",
+    "carrier": "FedEx Ground",
+    "trackingNumber": "FDX98230052",
+    "items": [
+        {
+            "id": "ITEM-152",
+            "name": "Braided HDMI 2.1 8K High Speed Cable",
+            "quantity": 1,
+            "price": 19.50,
+            "image": "https://picsum.photos/seed/p52/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 03:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Sorted at regional transit hub",
+            "timestamp": "Sep 25, 05:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Courier is out for final drop",
+            "timestamp": "Sep 26, 09:20 AM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1053",
+    "orderNumber": "#ORD-1053",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 29, 2026",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA153",
+    "items": [
+        {
+            "id": "ITEM-153",
+            "name": "Smart Touch LED Nightstand Lamp",
+            "quantity": 1,
+            "price": 33.00,
+            "image": "https://picsum.photos/seed/p53/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 09:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Departed regional depot",
+            "timestamp": "Sep 23, 02:40 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Transportation Interruption",
+            "description": "Delay due to highway collision block",
+            "timestamp": "Sep 25, 04:10 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1054",
+    "orderNumber": "#ORD-1054",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 01:10 PM",
+    "carrier": "FedEx Express",
+    "trackingNumber": "FDX98230054",
+    "items": [
+        {
+            "id": "ITEM-154",
+            "name": "Wireless Ergonomic Trackball Mouse",
+            "quantity": 1,
+            "price": 54.00,
+            "image": "https://picsum.photos/seed/p54/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order placed",
+            "timestamp": "Sep 24, 11:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "In transit",
+            "timestamp": "Sep 25, 03:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "On delivery vehicle",
+            "timestamp": "Sep 26, 08:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Delivered at side door",
+            "timestamp": "Sep 26, 01:10 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1055",
+    "orderNumber": "#ORD-1055",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 04, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-155",
+            "name": "Dual Slot Vertical Laptop Stand",
+            "quantity": 1,
+            "price": 28.50,
+            "image": "https://picsum.photos/seed/p55/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1056",
+    "orderNumber": "#ORD-1056",
+    "scenario": "normal",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Yesterday",
+    "carrier": "DHL Express",
+    "trackingNumber": "DHL49200056",
+    "items": [
+        {
+            "id": "ITEM-156",
+            "name": "Acoustic Foam Soundproofing Panels (12-pack)",
+            "quantity": 1,
+            "price": 36.99,
+            "image": "https://picsum.photos/seed/p56/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 23, 10:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Processed at regional terminal",
+            "timestamp": "Sep 24, 04:30 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Courier out for delivery",
+            "timestamp": "Sep 25, 08:45 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Package handed directly to recipient",
+            "timestamp": "Sep 25, 02:45 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1057",
+    "orderNumber": "#ORD-1057",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 30, 2026",
+    "carrier": "USPS Priority",
+    "trackingNumber": "USPS94000057",
+    "items": [
+        {
+            "id": "ITEM-157",
+            "name": "Magnetic Phone Mount for Car Dashboard",
+            "quantity": 1,
+            "price": 19.99,
+            "image": "https://picsum.photos/seed/p57/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 11:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "En route to processing hub",
+            "timestamp": "Sep 23, 05:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Carrier Re-sorting Delay",
+            "description": "Postal container re-routed for verification",
+            "timestamp": "Sep 25, 05:30 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1058",
+    "orderNumber": "#ORD-1058",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 11:40 AM",
+    "carrier": "FedEx Ground",
+    "trackingNumber": "FDX98230058",
+    "items": [
+        {
+            "id": "ITEM-158",
+            "name": "High-Precision Digital Caliper Tool",
+            "quantity": 1,
+            "price": 23.50,
+            "image": "https://picsum.photos/seed/p58/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 08:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "In transit",
+            "timestamp": "Sep 25, 02:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Carrier driver on dispatch route",
+            "timestamp": "Sep 26, 08:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Left on front door stoop",
+            "timestamp": "Sep 26, 11:40 AM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1059",
+    "orderNumber": "#ORD-1059",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 05, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-159",
+            "name": "Electric USB Mug Warmer Coaster",
+            "quantity": 1,
+            "price": 18.00,
+            "image": "https://picsum.photos/seed/p59/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1060",
+    "orderNumber": "#ORD-1060",
+    "scenario": "normal",
+    "currentStatus": "Out for Delivery",
+    "estimatedDelivery": "Today by 07:00 PM",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA160",
+    "items": [
+        {
+            "id": "ITEM-160",
+            "name": "Adjustable Metal Book & Document Stand",
+            "quantity": 1,
+            "price": 22.00,
+            "image": "https://picsum.photos/seed/p60/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 04:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "Processed through sorting hub",
+            "timestamp": "Sep 25, 08:30 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Package loaded on courier van",
+            "timestamp": "Sep 26, 09:30 AM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1061",
+    "orderNumber": "#ORD-1061",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 29, 2026",
+    "carrier": "FedEx Express",
+    "trackingNumber": "FDX98230061",
+    "items": [
+        {
+            "id": "ITEM-161",
+            "name": "Wireless Presenter Laser Remote Control",
+            "quantity": 1,
+            "price": 21.50,
+            "image": "https://picsum.photos/seed/p61/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 10:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "En route to delivery facility",
+            "timestamp": "Sep 23, 04:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Logistics Dispatch Hold",
+            "description": "Vehicle held up by interstate highway weather condition",
+            "timestamp": "Sep 25, 06:10 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1062",
+    "orderNumber": "#ORD-1062",
+    "scenario": "delivered_not_received",
+    "currentStatus": "Delivered",
+    "estimatedDelivery": "Delivered Today, 02:40 PM",
+    "carrier": "DHL Express",
+    "trackingNumber": "DHL49200062",
+    "items": [
+        {
+            "id": "ITEM-162",
+            "name": "Multi-Device Bluetooth Quiet Keyboard",
+            "quantity": 1,
+            "price": 49.00,
+            "image": "https://picsum.photos/seed/p62/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 24, 09:40 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "In transit",
+            "timestamp": "Sep 25, 03:20 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Dispatched with delivery specialist",
+            "timestamp": "Sep 26, 09:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Delivered",
+            "description": "Delivered to mail room box",
+            "timestamp": "Sep 26, 02:40 PM",
+            "completed": true,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1063",
+    "orderNumber": "#ORD-1063",
+    "scenario": "tracking_unavailable",
+    "currentStatus": "Processing",
+    "estimatedDelivery": "Estimated Oct 06, 2026",
+    "carrier": "Carrier Pending Assignment",
+    "trackingNumber": null,
+    "items": [
+        {
+            "id": "ITEM-163",
+            "name": "USB-C to Dual DisplayPort Adapter",
+            "quantity": 1,
+            "price": 39.99,
+            "image": "https://picsum.photos/seed/p63/200/200"
+        }
+    ],
+    "timeline": [],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1064",
+    "orderNumber": "#ORD-1064",
+    "scenario": "normal",
+    "currentStatus": "Shipped",
+    "estimatedDelivery": "Sep 28, 2026",
+    "carrier": "FedEx Ground",
+    "trackingNumber": "FDX98230064",
+    "items": [
+        {
+            "id": "ITEM-164",
+            "name": "Aluminum Monitor Light Bar with Remote",
+            "quantity": 1,
+            "price": 52.00,
+            "image": "https://picsum.photos/seed/p64/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 25, 10:00 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "En route to transit hub",
+            "timestamp": "Sep 26, 11:00 AM",
+            "completed": true,
+            "current": true
+        },
+        {
+            "title": "Out for Delivery",
+            "description": "Awaiting arrival at destination facility",
+            "timestamp": "Pending",
+            "completed": false,
+            "current": false
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+},
+{
+    "id": "ORD-2026-1065",
+    "orderNumber": "#ORD-1065",
+    "scenario": "delayed",
+    "currentStatus": "Delayed",
+    "estimatedDelivery": "Delayed • Expected Sep 30, 2026",
+    "carrier": "UPS Ground",
+    "trackingNumber": "1Z999AA165",
+    "items": [
+        {
+            "id": "ITEM-165",
+            "name": "Thermal Label Printer for Shipping Packages",
+            "quantity": 1,
+            "price": 119.00,
+            "image": "https://picsum.photos/seed/p65/200/200"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Order Placed",
+            "description": "Order confirmed",
+            "timestamp": "Sep 22, 08:30 AM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Shipped",
+            "description": "In transit",
+            "timestamp": "Sep 23, 03:00 PM",
+            "completed": true,
+            "current": false
+        },
+        {
+            "title": "Transit Mechanical Delay",
+            "description": "Carrier vehicle inspection halt",
+            "timestamp": "Sep 25, 02:20 PM",
+            "completed": false,
+            "current": true
+        }
+    ],
+    "supportContact": {
+        "phone": "+1-800-555-0199",
+        "email": "support@shoptrack.com"
+    }
+}
